@@ -5,6 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thepravinsingh)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thepravinsingh_) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhpravu@gmail.com)
+[![Peerlist](https://img.shields.io/badge/Peerlist-02A57B?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/thepravinsingh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thepravinsingh.vercel.app/)
+
 
 ---
 
@@ -63,3 +66,4 @@
 
 ### 🔢 Profile Views
 [![](https://visitcount.itsvg.in/api?id=thepravinsingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
