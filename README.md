@@ -61,11 +61,3 @@
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thepravinsingh&theme=dark&layout=compact&hide_border=false)
-
----
-
-### 🔢 Profile Views
-[![](https://visitcount.itsvg.in/api?id=thepravinsingh&label=Profile%20Views&color=0&icon=1)](https://visitcount.itsvg.in)
-
-
-
