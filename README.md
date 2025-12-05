@@ -64,17 +64,11 @@ Open to exciting opportunities and collaborations!
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepravinsingh&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Praveen's GitHub Stats" />
-</p>
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepravinsingh&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepravinsingh&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thepravinsingh&theme=dark&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepravinsingh&theme=react&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thepravinsingh&theme=dark&layout=compact&hide_border=false)
 
 
 
