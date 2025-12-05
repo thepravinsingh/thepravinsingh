@@ -1,15 +1,15 @@
 # 🚀 Praveen Singh
 
 ## 👨‍💻 About Me
-Hi there! I'm **Praveen Singh**, a passionate **Full Stack Developer** specializing in building fast, scalable, and SEO-friendly web applications.  
+Hey! I'm **Praveen Singh**, a passionate **Full-Stack Developer** who loves building fast, modern, and scalable web applications from scratch.
 
-Currently, I focus on developing **high-performance e-commerce platforms** using **Next.js**, **TypeScript**, **Tailwind CSS, and **NestJS** on the backend. I love creating pixel-perfect, responsive UIs with React, optimizing performance with Redis caching, and deploying production-ready apps using Docker, Jenkins, and Vercel.
+I specialize in **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Node.js/NestJS** backends. I enjoy crafting pixel-perfect, responsive user interfaces, writing clean and maintainable code, optimizing performance with Redis, and setting up smooth CI/CD pipelines using Docker, Jenkins, GitLab CI, and Vercel.
 
-From user authentication with JWT to CI/CD pipelines with GitLab CI — I handle the full development lifecycle. Always learning, currently diving deeper into advanced Next.js features (App Router, Server Components) and system design.
+Always learning and staying updated with the latest tools and best practices. Currently deepening my knowledge in advanced Next.js (App Router, Server Components), system design, and performance optimization.
 
-Looking for a **Next.js Developer**, **React Expert**, or **Full Stack Engineer** for your next project? Let's build something amazing together!  
+Open to exciting opportunities and collaborations!  
 
-**Keywords:** Full Stack Developer India • Next.js Expert • React.js Developer • NestJS Backend • E-commerce Development • TypeScript • Tailwind CSS • MongoDB • Web Performance • SEO-Friendly Web Apps.
+**Keywords:** Full Stack Developer • Next.js Developer • React.js • TypeScript • Tailwind CSS • NestJS • Node.js • MongoDB • Redis • Docker • Web Performance • India
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thepravinsingh_) 
@@ -72,4 +72,5 @@ Looking for a **Next.js Developer**, **React Expert**, or **Full Stack Engineer*
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thepravinsingh&theme=dark&layout=compact&hide_border=false)
+
 
