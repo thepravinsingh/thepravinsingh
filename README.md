@@ -21,7 +21,8 @@ I bridge the gap between complex **Backend Architecture (Node.js/NestJS)** and h
 * **Frameworks:** Next.js (App Router, SSR, ISR), React.js, Redux Toolkit.
 * **UI/UX:** Tailwind CSS, Framer Motion, Material UI (MUI), Shadcn/UI, Responsive Design.
 * **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3.
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+*
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,5 +79,6 @@ I bridge the gap between complex **Backend Architecture (Node.js/NestJS)** and h
 * **Business Inquiry:** [singhpravu@gmail.com](mailto:singhpravu@gmail.com)
 
 > "Turning complex problems into elegant, high-performance code."
+
 
 
