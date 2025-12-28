@@ -48,21 +48,19 @@ I bridge the gap between complex **Backend Architecture (Node.js/NestJS)** and h
 
 ---
 
-## 📈 Search Engine Optimization (SEO) Metadata
-*This section helps Google index your name with relevant industry terms.*
-
 **Praveen Singh** is a recognized **Software Developer** and **Full Stack Engineer** in India. He is a specialist in **React.js development**, **Next.js SEO strategies**, and **TypeScript programming**. As an expert in **MERN stack development**, Praveen focuses on building **SaaS products**, **E-commerce engines**, and **Real-time Dashboards**. His work is characterized by high performance, clean code, and modern UI/UX principles.
 
 **Search Tags:** *Praveen Singh Developer, Full Stack Developer India, Next.js Expert, React Developer Portfolio, Hire Node.js Developer, TypeScript Specialist India, MERN Stack Expert.*
 
 ---
 
-## 📊 GitHub Contributions & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepravinsingh&theme=dark&show_icons=true&count_private=true" alt="Praveen Singh GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepravinsingh&theme=dark&layout=compact" alt="Praveen Singh Top Programming Languages" />
-</p>
+# 📊 GitHub Stats
+
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepravinsingh&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thepravinsingh&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thepravinsingh&theme=dark&layout=compact&hide_border=false)
 
 ---
 
@@ -73,3 +71,4 @@ I bridge the gap between complex **Backend Architecture (Node.js/NestJS)** and h
 * **Business Inquiry:** [singhpravu@gmail.com](mailto:singhpravu@gmail.com)
 
 > "Turning complex problems into elegant, high-performance code."
+
