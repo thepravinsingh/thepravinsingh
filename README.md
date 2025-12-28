@@ -1,4 +1,4 @@
-# 🚀 Praveen Singh | Full-Stack Developer & Frontend & Backend Expert
+# Praveen Singh | Full-Stack Developer | Modern Web Architecture & DevOps Specialist (MERN + K8s)
 
 <p align="left">
   <a href="https://linkedin.com/in/thepravinsingh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Praveen Singh LinkedIn"></a>
@@ -95,4 +95,5 @@ I bridge the gap between complex **Backend Architecture (Node.js/NestJS)** and h
 * **Business Inquiry:** [singhpravu@gmail.com](mailto:singhpravu@gmail.com)
 
 > "Transforming complex challenges into elegant, high-performance digital solutions."
+
 
