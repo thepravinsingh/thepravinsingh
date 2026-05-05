@@ -64,31 +64,27 @@ I bridge the gap between complex **Backend Architecture (Node.js/NestJS)** and h
 
 ## 🌟 Featured Full-Stack Projects
 
-### 2. **GatherPass - Event Management System** 🎟️
-* **Tech Stack:** NestJS, Redis, MongoDB, Razorpay Integration.
-* **Key Result:** Developed a high-concurrency ticketing system handling **500+ requests per second** using Redis queuing for zero-fail transaction management.
-
-### 1. **Indian Robo Store - Multi-Vendor Marketplace 🤖
+### 1. **Indian Robo Store - Multi-Vendor Marketplace** 🤖
 * **Tech Stack:** Next.js 14, NestJS, MongoDB, Tailwind CSS.
 * **Key Result:** Built a scalable e-commerce platform hosting 5,000+ products. Achieved a 95+ Google PageSpeed score, driving 500+ daily active users through optimized Core Web Vitals and dynamic metadata.
 
-### 2. **Enterprise Resource Planning (ERP) System ⚙️
+### 2. **Enterprise Resource Planning (ERP) System** ⚙️
 * **Tech Stack:**  React 18, Redux Toolkit, NestJS, MongoDB, WebSockets.
 * **Key Result:** Architected a real-time central hub for inventory and finance, implementing a robust Role-Based Access Control (RBAC) system. Reduced operational delays by 25% via instant WebSocket-driven alerts.
 
-### 3. **International Supplier CRM Portal 🌍
+### 3. **International Supplier CRM Portal** 🌍
 * **Tech Stack:** Next.js 14, TypeScript, NestJS, Socket.io, MongoDB.
 * **Key Result:** Streamlined B2B cross-border operations with multi-currency support (USD, RMB, INR). Automated the procurement lifecycle, reducing manual quotation time by 40% through real-time supplier tracking.
 
-### 4. **Advanced HR Management Information System (HRIS) 👥
+### 4. **Advanced HR Management Information System (HRIS)** 👥
 * **Tech Stack:** React.js, Tailwind CSS, ShadCN/UI, NestJS, MongoDB.
 * **Key Result:** Designed a secure employee lifecycle platform managing attendance and payroll for 100+ staff. Optimized API response times by 60% through advanced indexing and efficient data-handling patterns.
 
-### 5. **Wholesale B2B Procurement Engine 🏢
+### 5. **Wholesale B2B Procurement Engine** 🏢
 * **Tech Stack:** Angular, Go (Golang), MongoDB.
 * **Key Result:** Engineered a high-performance frontend for bulk order management and dynamic pricing. Collaborated on a Go-based backend to ensure sub-100ms latency for large-scale inventory lookups.
 
-### 6. **High-Performance Service Ecosystem 🚀
+### 6. **High-Performance Service Ecosystem** 🚀
 * **Tech Stack:** Next.js 14, Tailwind CSS, Headless CMS.
 * **Key Result:** Deployed a network of SEO-centric corporate sites that achieved top-3 Google rankings for targeted niche keywords, significantly increasing organic inbound leads and conversion rates.
 
