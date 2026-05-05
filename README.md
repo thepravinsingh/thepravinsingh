@@ -97,13 +97,6 @@ I bridge the gap between complex **Backend Architecture (Node.js/NestJS)** and h
 
 ---
 
-## 📊 Performance & Contributions
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thepravinsingh&theme=dark&hide_border=false" alt="Praveen Singh GitHub Streak" />
-</p>
-
----
-
 ## 📬 Connect with Me
 * **Location:** India (Remote Worldwide)
 * **LinkedIn:** [/in/thepravinsingh](https://linkedin.com/in/thepravinsingh)
